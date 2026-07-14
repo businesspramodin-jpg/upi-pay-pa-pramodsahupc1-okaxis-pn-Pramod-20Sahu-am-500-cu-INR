@@ -1,0 +1,6 @@
+{
+  "name": "Payment System",
+  "description": "A modern mobile Payment System with dynamic UPI payment support, Material Design 3, custom amount, merchant details, copyable UPI deep links, dynamic QR code generation, and payment status verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
